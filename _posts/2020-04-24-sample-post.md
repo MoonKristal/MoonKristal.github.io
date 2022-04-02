@@ -16,52 +16,45 @@ MZ세대에게는 재미와 신선함을, 중장년층에게는 추억을 소환
 ---
 
 
-##### 기술 스택
+##### #기술 스택
 Java / Spring / JavaScript / jQuery / Oracle / 
 Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
-###### This is the h6 text
 
-**Bold Text in the post will look like:**<br>
-**This text is Bold**
+<br>
 
-**Italic Text in the post will look like:**<br>
-*This text is Italic*
+#### *팀원
+백엔드 5명
+저는 본 프로젝트에서, 영화관과 로그인의 전체적인 시스템과 화면의 설계 및 구현을 담당했습니다.  
 
-> Quotes on your post will look like this
+#### *후기
+이번 프로젝트는 저의 첫 프로젝트이자 저에게 있어서 가장 기억에 남는 프로젝트라고 할 수 있습니다. <br><br>
+어떻게 보면 저의 백엔드 개발자로서의 첫 발판과 같은 프로젝트이기도 합니다.
+논리적으로 어떤 데이터를 가져오려면 어떠한 코드를 짜야 하는지에 대해 생각하는 과정이 너무나 즐거웠습니다.
 
-`Codes on your post will look like this`
 
-**Link in the post will look like:**<br>
-[This is a link](#)
+다음은 제가 프로젝트를 진행하면서 직접 경험한 것입니다. <br>
+* 사람의 생각은 결국 거기서 거기다.
+이 세상에는 내가 최초로 생각할 수 있는 아이디어는 극히 드물다.
+why? 이 아이디어는 너무나 참신하다 이와 같은 아이디어를 가지고 만든 프로젝트는 없겠지?라는 생각을 가지고 구글링을 해보면 반드시 같은 생각을 한 사람을 찾을 수 있다.
 
-**Bullet list in the post will look like:**
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-* Item 5
+* 결국 중요한 것은 나만의 차별성을 가져오는 것이다.
+비슷한 주제을 가지고 프로젝트를 하는 것이면 무조건 남들과는 다른 차별성을 두어야한다.
+같은 주제를 가지고 있지만 다른 차별성을 두어 성공한 예는 우리 주변에서 쉽게 찾을 수 있다.
+예를 들면, 당근마켓이 있다.
+아주 오래 전부터 중고업계의 선두주자는 중고나라이다. 중고나라는 현재 1,800만명이상의 회원을 보유하고 있는 거대한 카페이며 당근마켓이 나오기 전까지 중고물품을 사려는 사람들은 필수적으로 중고나라에 가입했다고 해도 과언이 아닐 정도이다.
+당근마켓은 이런 중고업계의 큰 바람을 일으켰다.
+중고나라와 당근마켓, 모두 중고물품을 사고 팔수 있는 하나의 플랫폼이지만, 당근마켓은 지역 커뮤니티의 활성화를 기반으로 하여 중고나라와의 차별성을 두어 큰 성공을 이루어 냈다.
 
-**Number list in the post will look like:**
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
-5. Item 5
 
-**Images in the post will look like:**<br>
-![Test Image](/WhatATheme/assets/images/1280x720%20Placeholder.png)
 
-**Normal text in the post will look like**<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum.
 
-Aenean ac neque et risus mattis accumsan. Sed ac tellus molestie, lacinia ante sit amet, convallis felis. Maecenas aliquet lectus nec euismod auctor. Donec finibus pellentesque tortor, ac efficitur metus suscipit non. Proin diam orci, blandit quis malesuada ac, efficitur a nisl. Mauris eleifend consequat blandit. Sed egestas quam et orci gravida, non euismod metus scelerisque. Curabitur venenatis pellentesque erat commodo pharetra. Fusce id ante nec ipsum fringilla auctor. In justo quam, feugiat placerat eleifend dapibus, luctus et quam. Fusce facilisis erat ut odio convallis viverra et id mauris. Sed vehicula tempus consectetur. Aliquam pharetra, purus non egestas tristique, tellus massa fringilla est, id sagittis tellus urna non mauris. Suspendisse fringilla, velit nec blandit facilisis, ligula ante imperdiet est, et placerat magna sem quis tortor.
+그리고  
 
-Vestibulum vitae fermentum velit, rhoncus egestas orci. Nulla at purus ut orci posuere vulputate. In eget leo diam. In congue in diam nec elementum. Suspendisse fringilla ante nulla, eu tristique orci ultrices eget. Aenean non lorem tellus. Vestibulum tempor metus sit amet tellus feugiat, sit amet consequat lacus ultricies.
+개발자의 직업훈련을 받기 시작한 후 첫번째 프로젝트로서 많은 열정을 가지고 시작했습니다.
 
-Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molestie lorem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam.
+이번 프로젝트는 제가 공부했던 기술들을 활용할 수 있었고 부족함을 알 수 있었던 값진 시간이었습니다.
 
-**Giphy Gifs will look like:**<br>
-<iframe src="https://giphy.com/embed/ZqlvCTNHpqrio" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio">via GIPHY</a></p>
 
-**YouTUbe Videos will look like:**<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
