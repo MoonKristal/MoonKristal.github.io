@@ -30,7 +30,7 @@ layout: compress
             <p id="description" class="content is-small has-text-weight-medium is-uppercase">{{page.description | strip | strip_html | strip_newlines }}</p>
             {% endunless %}
             <p class="subtitle is-6 is-uppercase has-text-weight-normal has-text-black-ter">Published on
-              <b>{{ page.date | date: "%-B %d, %Y" }}</b> by <a href="https://github.com/MoonKristal/jotajotajo" target="_blank" class="why"><b class="has-text-link"><u>{{site.author-name}}</u></b>
+              <b>{{ page.date | date: "%-B %d, %Y" }}</b> by <a href="{{page.author-git-url}}" target="_blank"><b class="has-text-link"><u>{{site.author-name}}</u></b>
               </a>
             </p>
             {%- assign tags = page.tags -%}
@@ -50,12 +50,7 @@ layout: compress
                 {{ words | divided_by:180 }} min
               </b>READ</p>
             {%- endunless -%}
-            {% unless site.github_username ==  %}
-            <<p class="subtitle is-6 is-uppercase has-text-weight-normal has-text-black-ter">
-              <a href="http://www.github.com/{{site.github_username}/jotajotajo}" target="_blank" class="has-text-black"><i class="fab fa-github"></i></a>
-              깃허브..
-            </p>
-            {% endunless %}
+  
           </div>
         </div>
         <div class="content has-text-justified-desktop has-text-justified-fullhd has-text-justified has-text-justified-tablet has-text-left-mobile">

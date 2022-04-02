@@ -7,6 +7,7 @@ tags:
 - first experience
 - 시작
 - 백엔드 개발자
+author-git-url: https://github.com/MoonKristal/jotajotajo
 ---
 
 식을 줄 알았던 레트로 바람은 아직도 식지 않고 진행중입니다.
