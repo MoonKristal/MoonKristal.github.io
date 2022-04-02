@@ -19,7 +19,9 @@ layout: compress
                 <div class="section">
                     <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Have a Good Read</p>
                 </div>
-                {% include project-card.html %}
+                {% for post in site.posts %}
+                    {% include blog-card.html %}
+                {% endfor %}
             </div>
         </div>
     </section>
