@@ -1,28 +1,24 @@
 ---
 title: Cinema Heaven
 layout: post
-post-image: "https://ifh.cc/g/NQQ9cT.png"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+post-image: "https://ifh.cc/g/g4QKQo.png"
+description: 추억을 상영하다.
 tags:
 - sample
 - post
 - test
 ---
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+식을 줄 알았던 레트로 바람은 아직도 식지 않고 진행중입니다.
+MZ세대에게는 재미와 신선함을, 중장년층에게는 추억을 소환하여 일부세대에게만 국한된 것이 아니라 전세대를 어우르고 있습니다.
+본 프로젝트는 레트로를 영화의 영역으로 가져와 신선함과 추억을 가져와 이미 상영이 끝난 추억의 영화를 영화관에서 큰 화면과 서라운드한 음향으로 다시 감상할 수 있는 영화예매시스템을 제공합니다.
 
 ---
 
-# This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
+
+##### 기술 스택
+Java / Spring / JavaScript / jQuery / Oracle / 
+Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 ###### This is the h6 text
 
 **Bold Text in the post will look like:**<br>
