@@ -4,9 +4,9 @@ layout: post
 post-image: "https://ifh.cc/g/g4QKQo.png"
 description: 추억을 상영하다.
 tags:
-- sample
-- post
-- test
+- first experience
+- 시작
+- 백엔드 개발자
 ---
 
 식을 줄 알았던 레트로 바람은 아직도 식지 않고 진행중입니다.
