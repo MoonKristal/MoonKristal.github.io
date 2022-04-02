@@ -1,7 +1,7 @@
 ---
 title: Cinema Heaven
 layout: post
-post-image: "https://ifh.cc/g/ccR78y.png"
+post-image: "https://ifh.cc/g/t7w15M.png"
 description: 추억을 상영하다.
 tags:
 - first experience
