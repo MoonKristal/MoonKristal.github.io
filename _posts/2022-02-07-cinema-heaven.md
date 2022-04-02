@@ -1,7 +1,7 @@
 ---
 title: Cinema Heaven
 layout: post
-post-image: "https://ifh.cc/g/g4QKQo.png"
+post-image: "https://ifh.cc/g/ccR78y.png"
 description: 추억을 상영하다.
 tags:
 - first experience
@@ -32,7 +32,7 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 논리적으로 어떤 데이터를 가져오려면 어떠한 코드를 짜야 하는지에 대해 생각하는 과정이 너무나 즐거웠습니다.<br>
 이번 프로젝트는 제가 공부했던 기술들을 활용할 수 있었고 부족함을 알 수 있었던 값진 시간이었습니다.<br>
 
-다음은 제가 프로젝트를 진행하면서 직접 경험한 것입니다.
+다음은 제가 프로젝트를 진행하면서 느낀것입니다.
 * 사람의 생각은 결국 거기서 거기다.
 이 세상에는 내가 최초로 생각할 수 있는 아이디어는 극히 드물다.
 why? 이 아이디어는 너무나 참신하다 이와 같은 아이디어를 가지고 만든 프로젝트는 없겠지? 라는 생각을 가지고 구글링을 해보면 반드시 같은 생각을 한 사람을 찾을 수 있다.
