@@ -1,9 +1,8 @@
+- name: We Make Salad
+  link: https://github.com/MoonKristal/SOSOBUTSTRONG
+  image: 
+  description: 코로나 시국에 배달 음식에 길들여져 있는 입맛을 나만의 DIY 샐러드를 통해 개선하는 계기를 제공하며 사용자가 샐러드 구매 또는 판매 서비스를 이용할 수 있는 공간을 제공합니다.
 - name: Cinema Heaven
   image: https://ifh.cc/g/gopNnv.png
   link: https://github.com/MoonKristal/jotajotajo
   description: 식을 줄 알았던 레트로 바람은 아직도 식지 않고 진행중입니다. 본 프로젝트는 레트로를 영화의 영역으로 가져와 MZ세대에게는 재미와 신선함을, 중장년층에게는 추억을 큰 화면과 서라운드한 음향으로 다시 감상할 수 있게 영화예매시스템을 제공합니다.
-- name: We Make Salad
-  link: https://github.com/MoonKristal/SOSOBUTSTRONG
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
-  description: 코로나 시국에 배달 음식에 길들여져 있는 입맛을 나만의 DIY 샐러드를 통해 개선하는 계기를 제공하며 사용자가 샐러드 구매 또는 판매 서비스를 이용할 수 있는 공간을 제공합니다.
--
