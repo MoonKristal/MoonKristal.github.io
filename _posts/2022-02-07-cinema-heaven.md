@@ -25,6 +25,10 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 백엔드 5명<br>
 저는 본 프로젝트에서, 영화관과 로그인의 전체적인 시스템과 화면의 설계 및 구현을 담당했습니다. 
 
+##### #ERD
+<img src="https://ifh.cc/g/4X5ONj.jpg" width="1000px" height="500px" alt="erd">
+
+
 #### #주요기능 설명
 1. 비밀번호 찾기 : 아이디를 입력받아 가입된 회원인지 확인 후, 임시비밀번호를 이메일로 발송한다.<br>
 <img src="https://ifh.cc/g/ctCs8S.png" width="300px" height="350px" title="px(픽셀) 크기 설정" alt="ui">
