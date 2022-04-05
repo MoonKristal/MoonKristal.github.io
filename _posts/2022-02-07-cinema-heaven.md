@@ -42,13 +42,14 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 <img src="https://ifh.cc/g/ZZBFL2.jpg" width="400px" height="500px" title="px(픽셀) 크기 설정" alt="ui"><br>
 
 * Controller <br>
-<img src="https://ifh.cc/g/p58HzJ.png" width="600px" height="650px" title="px(픽셀) 크기 설정" alt="code">
-<img src="https://ifh.cc/g/wqy7Kk.png" width="600px" height="650px" title="px(픽셀) 크기 설정" alt="code"><br>
+<img src="https://ifh.cc/g/p58HzJ.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code">
+<img src="https://ifh.cc/g/wqy7Kk.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
 
 * Service <br>
-<img src="https://ifh.cc/g/w3ZRCa.png" width="600px" height="650px" title="px(픽셀) 크기 설정" alt="code"><br>
-<img src="https://ifh.cc/g/oZ9jPK.png" width="600px" height="900px" title="px(픽셀) 크기 설정" alt="code"><br>
-<img src="https://ifh.cc/g/2M42Mk.png" width="600px" height="650px" title="px(픽셀) 크기 설정" alt="code"><br><br>
+<img src="https://ifh.cc/g/w3ZRCa.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
+<img src="https://ifh.cc/g/KjRSny.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
+<img src="https://ifh.cc/g/aL5Y9v.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
+<img src="https://ifh.cc/g/2M42Mk.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br><br>
 
 3. 영화관 삭제 : 관리자가 삭제하고 싶은 영화관의 체크박스를 선택한 후, 해당 영화관을 삭제한다. (다중선택 가능) <br>
 <img src="" width="300px" height="350px" title="px(픽셀) 크기 설정" alt="ui">
