@@ -47,8 +47,8 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 
 * Service <br>
 <img src="https://ifh.cc/g/w3ZRCa.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
-<img src="https://ifh.cc/g/KjRSny.png" width="800px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
-<img src="https://ifh.cc/g/aL5Y9v.png" width="800px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
+<img src="https://ifh.cc/g/KjRSny.png" width="1000px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
+<img src="https://ifh.cc/g/aL5Y9v.png" width="1000px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
 <img src="https://ifh.cc/g/2M42Mk.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br><br>
 
 3. 영화관 삭제 : 관리자가 삭제하고 싶은 영화관의 체크박스를 선택한 후, 해당 영화관을 삭제한다. (다중선택 가능) <br>
