@@ -18,22 +18,38 @@ MZ세대에게는 재미와 신선함을, 중장년층에게는 추억을 소환
 
 
 ##### #기술 스택
-Java / Spring / JavaScript / jQuery / Oracle / 
+Java / JavaScript / jQuery / Oracle / 
 Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 
 ##### #팀원
-백엔드 5명<br>
-저는 본 프로젝트에서, 영화관과 로그인의 전체적인 시스템과 화면의 설계 및 구현을 담당했습니다. 
+백엔드 5명
+
+##### #담당기능
+공통 - 로그인, 아이디 / 비밀번호 찾기 <br>
+사용자 - 영화관 조회 <br>
+관리자 - 영화관 등록, 수정, 삭제 
 
 ##### #ERD
 <img src="https://ifh.cc/g/4X5ONj.jpg" width="1000px" height="500px" alt="erd">
 
-
 #### #주요기능 설명
 1. 비밀번호 찾기 : 아이디를 입력받아 가입된 회원인지 확인 후, 임시비밀번호를 이메일로 발송한다.<br>
 <img src="https://ifh.cc/g/ctCs8S.png" width="300px" height="350px" title="px(픽셀) 크기 설정" alt="ui">
-<img src="https://ifh.cc/g/y7LPNL.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br>
-2. 
+<img src="https://ifh.cc/g/y7LPNL.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br><br>
+
+2. 영화관 수정 : 기존의 있던 정보를 가져와 보여주고 관리자가 정보를 변경하면 변경한 정보로 업데이트해준다. <br> 
+<img src="https://ifh.cc/g/QVdfgn.png" width="300px" height="350px" title="px(픽셀) 크기 설정" alt="ui">
+<img src="https://ifh.cc/g/ZZBFL2.jpg" width="300px" height="350px" title="px(픽셀) 크기 설정" alt="ui"><br>
+<img src="https://ifh.cc/g/p58HzJ.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code">
+<img src="https://ifh.cc/g/wqy7Kk.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br>
+<img src="https://ifh.cc/g/2M42Mk.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code">
+<img src="https://ifh.cc/g/w3ZRCa.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code">
+<img src="https://ifh.cc/g/oZ9jPK.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br><br>
+
+3. 영화관 삭제 : 관리자가 삭제하고 싶은 영화관의 체크박스를 선택한 후, 삭제버튼을 누르면 모달창 Body안에 삭제할 영화관의 명을 띄워 한번 더 확인한 후 삭제가 가능하다. <br>
+<img src="" width="300px" height="350px" title="px(픽셀) 크기 설정" alt="ui">
+<img src="" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br><br>
+
 
 ##### #후기
 이번 프로젝트는 저의 첫 프로젝트이자 저에게 있어서 가장 기억에 남는 프로젝트라고 할 수 있습니다. <br>
