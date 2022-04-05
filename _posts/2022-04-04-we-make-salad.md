@@ -11,9 +11,10 @@ tags:
 author-git-url: https://github.com/MoonKristal/SOSOBUTSTRONG
 ---
 
->코로나 시국에 배달 음식에 길들여져 있는 입맛을 나만의 DIY 샐러드를 통해 개선하는 계기를 제공하며 사용자가 샐러드 구매 또는 판매 서비스를 이용할 수 있는 공간을 제공합니다.
+>코로나 시국에 배달 음식에 길들여져 있는 입맛을 나만의 DIY 샐러드를 통해 개선하는 계기를 제공하며 사용자가 샐러드 구매 또는 판매 서비스를 이용할 수 있는 공간을 제공합니다.      
 
 ---
+<br>
 
 ##### #기술 스택
 Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / 
