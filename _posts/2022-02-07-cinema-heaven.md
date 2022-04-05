@@ -37,7 +37,7 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 <img src="https://ifh.cc/g/ctCs8S.png" width="300px" height="350px" title="px(픽셀) 크기 설정" alt="ui">
 <img src="https://ifh.cc/g/y7LPNL.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br><br>
 
-2. 영화관 수정 : 기존의 있던 정보를 가져와 보여주고 관리자가 정보를 변경하면 변경한 정보로 업데이트해준다. <br> 
+2. 영화관 수정 : 기존의 있던 정보를 가져와 보여주고 관리자가 정보를 변경하면 변경한 정보로 업데이트한다. <br> 
 <img src="https://ifh.cc/g/QVdfgn.png" width="400px" height="500px" title="px(픽셀) 크기 설정" alt="ui">
 <img src="https://ifh.cc/g/ZZBFL2.jpg" width="400px" height="500px" title="px(픽셀) 크기 설정" alt="ui"><br>
 
@@ -50,7 +50,7 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 <img src="https://ifh.cc/g/oZ9jPK.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br>
 <img src="https://ifh.cc/g/2M42Mk.png" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br><br>
 
-3. 영화관 삭제 : 관리자가 삭제하고 싶은 영화관의 체크박스를 선택한 후, 삭제버튼을 누르면 모달창 Body안에 삭제할 영화관의 명을 띄워 한번 더 확인한 후 삭제가 가능하다. <br>
+3. 영화관 삭제 : 관리자가 삭제하고 싶은 영화관의 체크박스를 선택한 후, 해당 영화관을 삭제한다. (다중선택 가능) <br>
 <img src="" width="300px" height="350px" title="px(픽셀) 크기 설정" alt="ui">
 <img src="" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br><br>
 
