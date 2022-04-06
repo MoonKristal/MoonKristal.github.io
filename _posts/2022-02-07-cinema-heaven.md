@@ -19,8 +19,7 @@ MZ세대에게는 재미와 신선함을, 중장년층에게는 추억을 소환
 
 
 ##### #기술 스택
-Java / JavaScript / jQuery / Oracle / 
-Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
+Java / JavaScript / jQuery / Oracle / Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap / Github / Kakao Developers(지도 API)
 
 ##### #팀원
 백엔드 5명

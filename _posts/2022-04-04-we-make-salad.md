@@ -2,7 +2,7 @@
 title: We Make Salad 위메샐
 layout: post
 post-image: https://ifh.cc/g/hJsRNQ.png
-description: 나만의 샐러드를 만들어 보세요.
+description: Custom Your Salad.
 tags:
 - Spring Framework
 - 백엔드 개발자
@@ -16,8 +16,7 @@ author-git-url: https://github.com/MoonKristal/SOSOBUTSTRONG
 ---
 
 ##### #기술 스택
-Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / 
-Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
+Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat / HTML / CSS / Bootstrap / Github
 
 ##### #팀원
 백엔드 5명
@@ -28,4 +27,16 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 관리자 - 메인페이지 사진 등록, 신고처리 <br>
 
 ##### #ERD
+<img src="https://ifh.cc/g/pWGcsg.jpg" width="1000px" height="500px" alt="erd">
+
+##### #주요기능
+1. 좋아요
+2. 신고
+3. 신고처리
+
+
+##### #후기
+
+
+
 
