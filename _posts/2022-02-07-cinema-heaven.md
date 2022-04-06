@@ -50,17 +50,17 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 <img src="https://ifh.cc/g/aL5Y9v.png" width="1200px" height="600px" alt="code"><br>
 <img src="https://ifh.cc/g/2M42Mk.png" width="600px" height="600px" alt="code"><br><br>
 3. 영화관 삭제 : 관리자가 삭제하고 싶은 영화관의 체크박스를 선택한 후, 해당 영화관을 삭제한다. (다중선택 가능) <br>
-<img src="https://ifh.cc/g/7kZPAN.png" width="300px" height="350px" alt="ui">
-<img src="https://ifh.cc/g/Va1Fl9.png" width="300px" height="350px" alt="ui">
+<img src="https://ifh.cc/g/7kZPAN.png" width="400px" height="500px" alt="ui">
+<img src="https://ifh.cc/g/Va1Fl9.png" width="400px" height="500px" alt="ui">
     - JSP <br>
-<img src="https://ifh.cc/g/Pm2ymK.png" width="600px" height="550px" alt="code"><br>
-<img src="https://ifh.cc/g/ZSTN8W.png" width="600px" height="550px" alt="code"><br>
+<img src="https://ifh.cc/g/Pm2ymK.png" width="800px" height="600px" alt="code"><br>
+<img src="https://ifh.cc/g/ZSTN8W.png" width="800px" height="600px" alt="code"><br>
     - jQuery <br>
-<img src="https://ifh.cc/g/Q5sO1W.png" width="600px" height="550px" alt="code"><br>
+<img src="https://ifh.cc/g/Q5sO1W.png" width="800px" height="600px" alt="code"><br>
     - Controller <br>
-<img src="https://ifh.cc/g/5WySW2.png" width="600px" height="550px" alt="code"><br>
+<img src="https://ifh.cc/g/5WySW2.png" width="800px" height="600px" alt="code"><br>
     - Service <br>
-<img src="https://ifh.cc/g/pN54dO.png" width="600px" height="550px" alt="code"><br>
+<img src="https://ifh.cc/g/pN54dO.png" width="800px" height="600px" alt="code"><br>
 
 
 ##### #후기
