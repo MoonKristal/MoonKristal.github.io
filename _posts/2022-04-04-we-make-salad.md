@@ -37,13 +37,13 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
 2. 좋아요 : 다른 사용자가 공유한 게시글의 좋아요를 표시할 수 있다.<br>
 <img src="https://ifh.cc/g/CNt82A.jpg" style="width: 1000px; height: 700px;" alt="ui"><br>
     - JSP <br>
-<img src="https://ifh.cc/g/PknCLt.png" style="width: 1000px; height: 700px;" alt="code"><br>
+<img src="https://ifh.cc/g/PknCLt.png" style="width: 1200px; height: 200px;" alt="code"><br>
     - jQuery <br>
-<img src="https://ifh.cc/g/oqN7HQ.png" style="width: 600px; height: 250px;"  alt="code"><br>
+<img src="https://ifh.cc/g/oqN7HQ.png" style="width: 600px; height: 280px;"  alt="code"><br>
     - Controller <br>
-<img src="https://ifh.cc/g/xnFoNW.png" style="width: 1000px; height: 700px;" alt="code"><br>
+<img src="https://ifh.cc/g/xnFoNW.png" style="width: 1200px; height: 350px;" alt="code"><br>
     - jQuery<br>
-<img src="https://ifh.cc/g/q0XODX.png" style="width: 1000px; height: 700px;" alt="code"><br><br>
+<img src="https://ifh.cc/g/q0XODX.png" style="width: 700px; height: 350px;" alt="code"><br><br>
 3. 신고
 4. 신고처리
 
