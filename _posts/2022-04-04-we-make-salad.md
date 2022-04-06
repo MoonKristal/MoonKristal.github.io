@@ -39,7 +39,7 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
     - JSP <br>
 <img src="https://ifh.cc/g/PknCLt.png" width="1000px" height="700px" alt="code"><br>
     - jQuery <br>
-<img src="https://ifh.cc/g/oqN7HQ.png" width="1000px" height="700px" alt="code"><br>
+<img src="https://ifh.cc/g/oqN7HQ.png" style="width: 1000px; height: 700px;"  alt="code"><br>
     - Controller <br>
 <img src="https://ifh.cc/g/xnFoNW.png" width="1000px" height="700px" alt="code"><br>
     - jQuery<br>
