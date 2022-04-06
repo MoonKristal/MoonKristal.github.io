@@ -33,9 +33,9 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
 1. 게시글 상세정보 조회 : 사용자가 등록한 게시글을 조회할 수 있다.<br>
 <img src="https://ifh.cc/g/mLdc2D.jpg" width="400px" height="600px" alt="ui"><br>
     - Controller <br>
-<img src="https://ifh.cc/g/Kojw0Q.png" width="1000px" height="700px" alt="code"><br><br>
+<img src="https://ifh.cc/g/Kojw0Q.png" width="1200px" height="700px" alt="code"><br><br>
 2. 좋아요 : 다른 사용자가 공유한 게시글의 좋아요를 표시할 수 있다.<br>
-<img src="" width="300px" height="400px" alt="ui"><br>
+<img src="https://ifh.cc/g/CNt82A.jpg" width="400px" height="600px" alt="ui"><br>
     - Controller <br>
 <img src="" width="1000px" height="700px" alt="code"><br><br>
 2. 신고
