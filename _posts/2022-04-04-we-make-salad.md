@@ -41,7 +41,7 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
     - jQuery <br>
 <img src="https://ifh.cc/g/oqN7HQ.png" width="1000px" height="700px" alt="code"><br>
     - Controller <br>
-<img src="https://ifh.cc/g/xnFoNW.png" width="1200px" height="700px" alt="code"><br>
+<img src="https://ifh.cc/g/xnFoNW.png" width="1000px" height="700px" alt="code"><br>
     - jQuery<br>
 <img src="https://ifh.cc/g/q0XODX.png" width="1000px" height="700px" alt="code"><br><br>
 3. 신고
