@@ -35,23 +35,32 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 
 #### #주요기능 설명
 1. 비밀번호 찾기 : 아이디를 입력받아 가입된 회원인지 확인 후, 임시비밀번호를 이메일로 발송한다.<br>
-<img src="https://ifh.cc/g/ctCs8S.png" width="300px" height="400px" title="px(픽셀) 크기 설정" alt="ui"><br>
+<img src="https://ifh.cc/g/ctCs8S.png" width="300px" height="400px" alt="ui"><br>
    - Controller <br>
-<img src="https://ifh.cc/g/y7LPNL.png" width="1000px" height="700px" title="px(픽셀) 크기 설정" alt="code"><br><br>
+<img src="https://ifh.cc/g/y7LPNL.png" width="1000px" height="700px" alt="code"><br><br>
 2. 영화관 수정 : 기존의 있던 정보를 가져와 보여주고 관리자가 정보를 변경하면 변경한 정보로 업데이트한다. <br> 
-<img src="https://ifh.cc/g/QVdfgn.png" width="400px" height="500px" title="px(픽셀) 크기 설정" alt="ui">
-<img src="https://ifh.cc/g/ZZBFL2.jpg" width="400px" height="500px" title="px(픽셀) 크기 설정" alt="ui"><br>
+<img src="https://ifh.cc/g/QVdfgn.png" width="400px" height="500px" alt="ui">
+<img src="https://ifh.cc/g/ZZBFL2.jpg" width="400px" height="500px" alt="ui"><br>
    - Controller <br>
-<img src="https://ifh.cc/g/p58HzJ.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code">
-<img src="https://ifh.cc/g/wqy7Kk.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
+<img src="https://ifh.cc/g/p58HzJ.png" width="600px" height="600px" alt="code">
+<img src="https://ifh.cc/g/wqy7Kk.png" width="600px" height="600px" alt="code"><br>
    - Service <br>
-<img src="https://ifh.cc/g/w3ZRCa.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
-<img src="https://ifh.cc/g/KjRSny.png" width="1200px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
-<img src="https://ifh.cc/g/aL5Y9v.png" width="1200px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br>
-<img src="https://ifh.cc/g/2M42Mk.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br><br>
+<img src="https://ifh.cc/g/w3ZRCa.png" width="600px" height="600px" alt="code"><br>
+<img src="https://ifh.cc/g/KjRSny.png" width="1200px" height="600px" alt="code"><br>
+<img src="https://ifh.cc/g/aL5Y9v.png" width="1200px" height="600px" alt="code"><br>
+<img src="https://ifh.cc/g/2M42Mk.png" width="600px" height="600px" alt="code"><br><br>
 3. 영화관 삭제 : 관리자가 삭제하고 싶은 영화관의 체크박스를 선택한 후, 해당 영화관을 삭제한다. (다중선택 가능) <br>
-<img src="" width="300px" height="350px" title="px(픽셀) 크기 설정" alt="ui">
-<img src="" width="600px" height="550px" title="px(픽셀) 크기 설정" alt="code"><br><br>
+<img src="https://ifh.cc/g/7kZPAN.png" width="300px" height="350px" alt="ui">
+<img src="https://ifh.cc/g/Va1Fl9.png" width="300px" height="350px" alt="ui">
+    - JSP
+<img src="https://ifh.cc/g/Pm2ymK.png" width="600px" height="550px" alt="code"><br>
+<img src="https://ifh.cc/g/ZSTN8W.png" width="600px" height="550px" alt="code"><br>
+    - jQuery
+<img src="https://ifh.cc/g/Q5sO1W.png" width="600px" height="550px" alt="code"><br>
+    - Controller <br>
+<img src="https://ifh.cc/g/5WySW2.png" width="600px" height="550px" alt="code"><br>
+    - Service <br>
+<img src="https://ifh.cc/g/pN54dO.png" width="600px" height="550px" alt="code"><br>
 
 
 ##### #후기
