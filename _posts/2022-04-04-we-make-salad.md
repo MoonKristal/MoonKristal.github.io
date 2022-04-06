@@ -22,7 +22,7 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
 백엔드 5명
 
 ##### #담당기능
-공통 - 메인페이지, 커뮤니티 게시판 조회 <br>
+공통 - 메인페이지, 커뮤니티(레시피 공유) 게시판 조회 <br>
 판매자, 구매자 - 커뮤니티 게시판 등록, 수정, 삭제, 신고, 좋아요, 댓글 작성, 댓글 신고 <br>
 관리자 - 메인페이지 사진 등록, 신고처리 <br>
 
@@ -30,7 +30,14 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
 <img src="https://ifh.cc/g/pWGcsg.jpg" width="1000px" height="500px" alt="erd">
 
 ##### #주요기능
-1. 좋아요
+1. 게시글 상세정보 조회 : 사용자가 등록한 게시글을 조회할 수 있다.
+<img src="https://ifh.cc/g/mLdc2D.jpg" width="300px" height="400px" alt="ui"><br>
+    - Controller <br>
+<img src="https://ifh.cc/g/lfA296.png" width="1000px" height="700px" alt="code"><br><br>
+2. 좋아요 : 다른 사용자가 공유한 게시글의 좋아요를 표시할 수 있다.
+<img src="" width="300px" height="400px" alt="ui"><br>
+    - Controller <br>
+<img src="" width="1000px" height="700px" alt="code"><br><br>
 2. 신고
 3. 신고처리
 
