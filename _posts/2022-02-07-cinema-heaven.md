@@ -33,7 +33,7 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 ##### #ERD
 <img src="https://ifh.cc/g/4X5ONj.jpg" width="1000px" height="500px" alt="erd">
 
-#### #주요기능 설명
+#### #주요기능
 1. 비밀번호 찾기 : 아이디를 입력받아 가입된 회원인지 확인 후, 임시비밀번호를 이메일로 발송한다.<br>
 <img src="https://ifh.cc/g/ctCs8S.png" width="300px" height="400px" alt="ui"><br>
    - Controller <br>
