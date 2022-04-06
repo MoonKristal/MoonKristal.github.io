@@ -37,7 +37,7 @@ Servlet / Jsp / Tomcat / HTML / CSS / Bootstrap
 1. 비밀번호 찾기 : 아이디를 입력받아 가입된 회원인지 확인 후, 임시비밀번호를 이메일로 발송한다.<br>
 <img src="https://ifh.cc/g/ctCs8S.png" width="300px" height="400px" title="px(픽셀) 크기 설정" alt="ui"><br>
    - Controller <br>
-<img src="https://ifh.cc/g/y7LPNL.png" width="600px" height="600px" title="px(픽셀) 크기 설정" alt="code"><br><br>
+<img src="https://ifh.cc/g/y7LPNL.png" width="400px" height="700px" title="px(픽셀) 크기 설정" alt="code"><br><br>
 2. 영화관 수정 : 기존의 있던 정보를 가져와 보여주고 관리자가 정보를 변경하면 변경한 정보로 업데이트한다. <br> 
 <img src="https://ifh.cc/g/QVdfgn.png" width="400px" height="500px" title="px(픽셀) 크기 설정" alt="ui">
 <img src="https://ifh.cc/g/ZZBFL2.jpg" width="400px" height="500px" title="px(픽셀) 크기 설정" alt="ui"><br>
