@@ -2,7 +2,7 @@
 title: We Make Salad 위메샐
 layout: post
 post-image: https://ifh.cc/g/hJsRNQ.png
-description: Custom Your Salad.
+description: Customize Your Salad.
 tags:
 - Spring Framework
 - 백엔드 개발자
