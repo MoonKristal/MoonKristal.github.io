@@ -53,7 +53,7 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
 <img src="https://ifh.cc/g/zFlvcM.png" style="width: 700px; height: 300px;" alt="ui">
 <img src="https://ifh.cc/g/QJS2yp.png" style="width: 500px; height: 800px;" alt="ui"><br>
     - SQL문 <br>
-<img src="https://ifh.cc/g/yPfz3t.png" style="width: 1200px; height: 450px;" alt="code"><br>
+<img src="https://ifh.cc/g/yPfz3t.png" style="width: 600px; height: 450px;" alt="code"><br>
 
 
 
