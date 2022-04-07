@@ -49,7 +49,12 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
 <img src="https://ifh.cc/g/AZtdHW.png" style="width: 1200px; height: 450px;" alt="code"><br>
     - Controller <br>
 <img src="https://ifh.cc/g/ZVW1P1.png" style="width: 600px; height: 300px;" alt="code"><br>
-4. 신고처리
+4. 신고처리 : 신고가 들어온 게시글 또는 댓글을 관리자가 삭제 또는 반려처리할 수 있다. <br>
+<img src="https://ifh.cc/g/zFlvcM.png" style="width: 400px; height: 400px;" alt="ui"><br>
+<img src="https://ifh.cc/g/QJS2yp.png" style="width: 400px; height: 400px;" alt="ui"><br>
+    - SQL문 <br>
+<img src="" style="width: 1200px; height: 450px;" alt="code"><br>
+
 
 
 ##### #후기
