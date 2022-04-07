@@ -41,9 +41,15 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
 <img src="https://ifh.cc/g/oqN7HQ.png" style="width: 500px; height: 300px;"  alt="code"><br>
     - Controller <br>
 <img src="https://ifh.cc/g/xnFoNW.png" style="width: 1200px; height: 350px;" alt="code"><br>
-    - jQuery<br>
+    - jQuery <br>
 <img src="https://ifh.cc/g/q0XODX.png" style="width: 700px; height: 350px;" alt="code"><br><br>
 3. 신고
+<img src="https://ifh.cc/g/VYZFNP.png" style="width: 400px; height: 600px;" alt="ui">
+    - JSP <br>
+<img src="https://ifh.cc/g/C14kNa.png" style="width: 1200px; height: 200px;" alt="code"><br>
+<img src="https://ifh.cc/g/hjBk9N.png" style="width: 500px; height: 300px;" alt="code"><br>
+    - Controller <br>
+<img src="https://ifh.cc/g/ZVW1P1.png" style="width: 900px; height: 600px;" alt="code"><br>
 4. 신고처리
 
 
