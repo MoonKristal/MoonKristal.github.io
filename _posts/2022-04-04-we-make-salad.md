@@ -52,7 +52,8 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
 4. 신고처리 : 신고가 들어온 게시글 또는 댓글을 관리자가 삭제 또는 반려처리할 수 있다. <br>
 <img src="https://ifh.cc/g/zFlvcM.png" style="width: 700px; height: 300px;" alt="ui"><br>
 <img src="https://ifh.cc/g/QJS2yp.png" style="width: 500px; height: 800px;" alt="ui"><br>
-    - SQL문 : 삭제할 경우 STATUS를 D로, 반려할 경우 R로 변경한 후, 처리상태(COMPLETION)을 N에서 Y로 변경한다. <br>
+    - SQL문 : 삭제할 경우 STATUS를 D로, 반려할 경우 R로 변경한 후, 처리상태(COMPLETION)를 N에서 Y로 변경한다. <br>
+    (report_rep, user_no, report_com을 복합키로 두고 게시글 신고 처리를 할때는 report_rep를 기본값(0)으로 준다. 여기서 report_rep = 0인 댓글은 참조를 위해 더미데이터로 관리자가 넣어둠)<br>
 <img src="https://ifh.cc/g/yPfz3t.png" style="width: 850px; height: 500px;" alt="code"><br>
 
 ##### #후기
