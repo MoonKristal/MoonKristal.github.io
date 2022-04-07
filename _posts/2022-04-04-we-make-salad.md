@@ -44,7 +44,7 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
     - jQuery <br>
 <img src="https://ifh.cc/g/q0XODX.png" style="width: 700px; height: 350px;" alt="code"><br><br>
 3. 신고 : 게시글 또는 게시글에 달린 댓글을 사용자가 신고할 수 있다. <br>
-<img src="https://ifh.cc/g/VYZFNP.png" style="width: 400px; height: 400px;" alt="ui">
+<img src="https://ifh.cc/g/VYZFNP.png" style="width: 400px; height: 400px;" alt="ui"><br>
     - JSP <br>
 <img src="https://ifh.cc/g/hjBk9N.png" style="width: 700px; height: 160px;" alt="code"><br>
     - Controller <br>
