@@ -50,14 +50,17 @@ Java / Spring Framework / MyBatis / JavaScript / jQuery / Oracle / Jsp / Tomcat 
     - Controller <br>
 <img src="https://ifh.cc/g/ZVW1P1.png" style="width: 600px; height: 300px;" alt="code"><br>
 4. 신고처리 : 신고가 들어온 게시글 또는 댓글을 관리자가 삭제 또는 반려처리할 수 있다. <br>
-<img src="https://ifh.cc/g/zFlvcM.png" style="width: 700px; height: 300px;" alt="ui">
+<img src="https://ifh.cc/g/zFlvcM.png" style="width: 700px; height: 300px;" alt="ui"><br>
 <img src="https://ifh.cc/g/QJS2yp.png" style="width: 500px; height: 800px;" alt="ui"><br>
-    - SQL문 <br>
+    - SQL문 : 삭제할 경우 STATUS를 D로, 반려할 경우 R로 변경한 후, 처리상태(COMPLETION)을 N에서 Y로 변경한다. <br>
 <img src="https://ifh.cc/g/yPfz3t.png" style="width: 850px; height: 500px;" alt="code"><br>
 
-
-
 ##### #후기
+6개월 전 시작한 국비교육이 이번 파이널 프로젝트와 함께 끝이 났다. 
+이번 프로젝트에서 팀장을 맡아, 전체적인 일정을 짜는 방법과 팀원들 간의 의견을 조율하는 방법을 배울 수 있었다.
+프로젝트를 하면서 나태해지는 순간들이 있었지만 같은 팀원들의 열정 있는 모습이 나를 다시 일깨워줬다.
+아무것도 모르는 채로 시작한 내가 작은 프로젝트들을 하면서 하나둘씩 감을 잡아가며 하나의 웹페이지들을 만든 게 실감이 잘 나지 않는다.
+하지만 앞으로 배울 많은 것들이 더욱 기다려지며 그 배운 것들을 활용해 새로운 무언가를 만들어낼 내가 기대된다. 
 
 
 
